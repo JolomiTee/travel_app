@@ -4,7 +4,7 @@ import React from "react";
 
 const Features = () => {
 	return (
-		<section className="border-2 flex-col flexCenter overflow-hidden bg-feature-bg bg-center bg-no-repeat py-24">
+		<section className="border-2 flex-col flexCenter overflow-hidden bg-feature-bg bg-center bg-no-repeat py-24 px-5">
 			<div className="max-container relative w-full flex items-center justify-end ">
 				<div className="flex flex-1 lg:min-h-[900px]">
 					{/* Left */}
@@ -24,7 +24,7 @@ const Features = () => {
 							alt="camp"
 							width={50}
 							height={50}
-							className="absolute left-[-5px] top-[-28px]"
+							className="absolute left-[-5px] top-[-40px]"
 						/>
 						<h2 className="bold-40 lg:bold-64">Our Features</h2>
 					</div>

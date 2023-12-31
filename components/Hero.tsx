@@ -17,7 +17,7 @@ const Hero = () => {
 				/>
 				<h1 className="bold-52 lg:bold-88">Jabi Lake Hiking Area</h1>
 				<p className="regualr-16 mt-16 text-gray-30 xl:max-w-[520px]">
-					We want you to come to jabi lake to see for yourself what Obasanjo has
+					We want you to come to Jabi lake to see for yourself what Obasanjo has
 					done to make Nigeria great again! Get a stunning view of the prominent
 					Jabi Lake Mall across the beautiful algae filled lake.
 				</p>
@@ -49,7 +49,7 @@ const Hero = () => {
 						type="button"
 						title="How we work?"
 						variant="btn_white_text"
-						icon="../public/play.svg"
+						icon="../play.svg"
 					/>
 				</div>
 			</div>

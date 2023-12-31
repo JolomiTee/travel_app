@@ -1,8 +1,8 @@
 // NAVIGATION
 export const NAV_LINKS = [
 	{ href: "/", key: "home", label: "Home" },
-	{ href: "/", key: "how_hilink_work", label: "How Hilink Work?" },
-	{ href: "/", key: "services", label: "Services" },
+	{ href: "/", key: "how_hilink_works", label: "How Hilink Works?" },
+	{ href: "/", key: "our services", label: "Our Services" },
 	{ href: "/", key: "pricing ", label: "Pricing " },
 	{ href: "/", key: "contact_us", label: "Contact Us" },
 ];
@@ -62,15 +62,16 @@ export const FOOTER_LINKS = [
 	},
 	{
 		title: "Our Community",
-		links: ["Climbing xixixi", "Hiking hilink", "Hilink kinthill"],
+		links: ["Climbing Zuma Rock", "Hiking to Central Area", "Hilink Bustop"],
 	},
 ];
 
 export const FOOTER_CONTACT_INFO = {
 	title: "Contact Us",
 	links: [
-		{ label: "Admin Officer", value: "123-456-7890" },
-		{ label: "Email Officer", value: "hilink@akinthil.com" },
+		{ label: "Admin Officer", value: "JolomiTee" },
+		{ label: "Phone", value: "+234 906 1603 717" },
+		{ label: "Email", value: "jolomitee@gmail.com" },
 	],
 };
 
